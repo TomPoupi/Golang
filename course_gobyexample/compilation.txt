@@ -1,0 +1,2 @@
+go build hello_world.go
+go run hello_world.go
